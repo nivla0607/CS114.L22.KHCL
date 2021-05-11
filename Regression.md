@@ -1,5 +1,11 @@
 # CS114.L22.KHCL
 
+**Thành viên nhóm:**
+
+* Phạm Minh Khôi - 19520658
+* Phạm Quốc Đạt - 19521349
+* Nguyễn Phạm Vĩnh Nguyên - 19520186
+
 ## Câu hỏi:
 Mỗi nhóm tìm dăm ba ví dụ về bài toán regression ***TRONG THỰC TẾ***
 
